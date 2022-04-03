@@ -1,2 +1,3 @@
 # Arithmetic-Formatter
-Code for free test
+
+Converts weight from pound to Kilograms or kilograms to pounds
